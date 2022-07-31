@@ -1,0 +1,31 @@
+# tensorboard 
+scripts/runs
+
+# macbook
+.DS_Store
+
+# coverage
+cover
+
+#idea
+.idea
+
+**/.DS_Store
+*.pyc 
+
+
+# tensorflow logs
+scripts/logs
+scripts/tensorflow_logs
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+model/model.ckpt
+data/test.csv
+data/full.csv
+data/train.csv
+data/json_files/custom_train.json

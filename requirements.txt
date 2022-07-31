@@ -1,0 +1,15 @@
+pytorch_lightning == 1.6.5
+transformers == 4.20.1
+matplotlib == 3.5.2
+torch == 1.12.0
+torchaudio == 0.12.0
+torchvision == 0.13.0
+pandas == 1.4.3
+timm == 0.6.5
+tqdm == 4.64.0
+pycocotools == 2.0.2
+scipy == 1.8.1
+
+
+
+
